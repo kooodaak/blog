@@ -33,16 +33,6 @@ I believe in:
 
 ---
 
-## 📚 Latest Posts
-
-> (These are example posts – create files for each of them in your repo.)
-
-- [Why Penetration Testing Needs a QA Mindset](posts/why-pentesting-needs-qa-mindset.md)
-- [Common Mistakes That Lead to Vulnerabilities](posts/common-mistakes-vulnerabilities.md)
-- [How I Approach a New Application as a PenTester](posts/how-i-approach-new-app.md)
-
----
-
 ## 🚀 What’s Next?
 
 I’ll be sharing more about:
